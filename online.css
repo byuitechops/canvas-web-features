@@ -1,0 +1,24 @@
+.ui-accordion .ui-accordion-content {
+  padding: 1em;
+}
+.ui-accordion .ui-accordion-header {
+  margin-bottom: 0;
+  padding: 16px 24px 12px 30px;
+  padding-left: 30px;
+  
+}
+
+.byui-popover{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+
+.ic-Table.ic-Table--rubric tr td:first-child, .ic-Table.ic-Table--rubric tr th{
+  background-color: #2d5d94;
+  color: #ffffff;
+}
+
+.ic-Table.ic-Table--rubric tr:first-child th{
+  background-color: #1e435d;
+  color: #ffffff;
+}
